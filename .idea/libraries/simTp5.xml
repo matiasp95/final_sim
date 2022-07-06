@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="simTp5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/simTp5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
